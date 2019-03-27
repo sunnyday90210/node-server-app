@@ -1,0 +1,9 @@
+{
+  "name": "LaptopStore",
+  "version": "1.0.0",
+  "description": "Simply Store Template with node without a framework",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
